@@ -1,0 +1,3 @@
+com\capgemini\wsb\mapper\PatientMapper.class
+com\capgemini\wsb\mapper\DoctorMapper.class
+com\capgemini\wsb\mapper\VisitMapper.class
